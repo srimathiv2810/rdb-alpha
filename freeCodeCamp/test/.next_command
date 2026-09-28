@@ -251,3 +251,25 @@ mkdir images
 cd images
 touch background.jpg
 cd ../../..
+cd ../../..
+__vsc_prompt_cmd_original
+cd ../../..
+ls --color=auto
+cd images
+cd /website/images
+cd /website/images
+cd /workspaces
+ls --color=auto
+cd rdb-alpha
+cd rdb-alpha
+cd website/images
+cd website/images
+cd website/images
+camper: /rdb-alpha$
+ls --color=auto
+cd workspaces/rdb-alpha/website/images
+cd /workspaces/rdb-alpha/website/images
+cd /workspaces/rdb-alpha/website/images
+find / -type d -name website 2> /dev/null
+__vsc_prompt_cmd_original
+cd /workspace/project/website/images
