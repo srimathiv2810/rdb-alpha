@@ -74,3 +74,9 @@ mkdir website
 ls --color=auto
 cd website
 ls --color=auto
+echo "hello website"
+ls --color=auto
+pwd
+ls --color=auto
+cd ..
+echo hello website
