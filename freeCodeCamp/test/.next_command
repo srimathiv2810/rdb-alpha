@@ -311,3 +311,4 @@ touch package.json
 Next, create server.js in the website folder.
 touch server.js
 touch README.md
+ls --color=auto
