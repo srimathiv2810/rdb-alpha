@@ -298,3 +298,4 @@ mv freeCodeCamp.svg client/assets/icons/
 find . -name "freeCodeCamp.svg"
 mkdir client/assets/fonts
 touch client/assets/fonts/roboto-bold.woff
+touch client/assets/fonts/roboto-light.woff
