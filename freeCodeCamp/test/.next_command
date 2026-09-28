@@ -94,3 +94,4 @@ ls --color=auto
 intex.html
 ls --color=auto
 touch index.html
+touch styles.css
