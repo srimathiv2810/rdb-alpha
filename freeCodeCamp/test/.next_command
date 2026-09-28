@@ -99,3 +99,4 @@ ls --color=auto
 index.jason
 touch index.js
 touch .gitignore
+ls --color=auto -a
