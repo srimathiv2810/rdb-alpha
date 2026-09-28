@@ -44,3 +44,4 @@ ls --color=auto -lb
 cd ..
 ls --color=auto -la
 more LICENSE-MIT
+clear
