@@ -228,3 +228,5 @@ mv lato.ttf fonts/
 mv menlo.otf fonts/
 find
 mkdir client
+ls --color=auto
+mkdir client/src
