@@ -225,3 +225,4 @@ mv roboto.woff fonts/
 ls --color=auto fonts
 find
 mv lato.ttf fonts/
+mv menlo.otf fonts/
