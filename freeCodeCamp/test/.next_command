@@ -28,3 +28,19 @@ ls --color=auto
 more README.md
 __vsc_prompt_cmd_original
 ls --color=auto
+more license
+ls --color=auto
+pwd
+more license
+more license
+more LICENSE
+more LICENSE
+ls --color=auto la-
+ls --color=auto -lb
+more ./LICENSE
+cat LICENSE
+cd src
+ls --color=auto -lb
+cd ..
+ls --color=auto -la
+more LICENSE-MIT
