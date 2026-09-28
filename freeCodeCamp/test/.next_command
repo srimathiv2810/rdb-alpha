@@ -274,3 +274,5 @@ find / -type d -name website 2> /dev/null
 __vsc_prompt_cmd_original
 cd /workspace/project/website/images
 ls --color=auto
+__vsc_prompt_cmd_original
+mv header.png ..
