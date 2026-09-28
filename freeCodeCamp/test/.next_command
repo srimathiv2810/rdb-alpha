@@ -1,0 +1,9 @@
+__vsc_prompt_cmd_original
+ls --color=auto
+cd freeCodeCamp
+ls --color=auto
+cd/workspace/project
+ls --color=auto
+cd /workspace/project
+ls --color=auto
+cd freeCodeCamp
