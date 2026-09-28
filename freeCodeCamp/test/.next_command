@@ -98,3 +98,4 @@ touch styles.css
 ls --color=auto
 index.jason
 touch index.js
+touch .gitignore
