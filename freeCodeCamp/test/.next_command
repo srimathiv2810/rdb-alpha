@@ -58,3 +58,12 @@ __vsc_prompt_cmd_original
 more ./index.js
 __vsc_prompt_cmd_original
 cd ..
+cd node_modules
+ls --color=auto
+cd src
+cd ..
+ls --color=auto
+find / -type d -name node_modules 2> /dev/null
+pwd
+ls --color=auto
+cd ..
