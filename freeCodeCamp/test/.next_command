@@ -308,3 +308,5 @@ rm --help
 rm -r fonts
 ls --color=auto
 touch package.json
+Next, create server.js in the website folder.
+touch server.js
