@@ -80,3 +80,17 @@ pwd
 ls --color=auto
 cd ..
 echo hello website
+touch index.html
+ls --color=auto
+pwd
+ls --color=auto
+touch intex html
+touch ./index.html
+touch index.html
+ls --color=auto
+cd website
+touch intex.html
+ls --color=auto
+intex.html
+ls --color=auto
+touch index.html
