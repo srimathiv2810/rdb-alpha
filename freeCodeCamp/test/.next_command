@@ -222,3 +222,5 @@ ls --color=auto
 mkdir fonts
 ls --color=auto
 mv roboto.woff fonts/
+ls --color=auto fonts
+find
