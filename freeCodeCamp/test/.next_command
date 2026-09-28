@@ -312,3 +312,4 @@ Next, create server.js in the website folder.
 touch server.js
 touch README.md
 ls --color=auto
+echo "Yay!"
