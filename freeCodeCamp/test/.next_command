@@ -49,3 +49,10 @@ ls --color=auto
 cd src
 pwd
 ls --color=auto
+__vsc_prompt_cmd_original
+more*
+more index.js
+more index.js
+ls --color=auto
+__vsc_prompt_cmd_original
+more ./index.js
